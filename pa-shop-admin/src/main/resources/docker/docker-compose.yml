@@ -1,0 +1,7 @@
+version: "3.0"
+services:
+  pa-shop-admin:
+    image: pa-shop-parent/pa-shop-admin:0.0.1-SNAPSHOT
+    ports:
+    - 9090:9090
+    container_name: pa-shop-admin

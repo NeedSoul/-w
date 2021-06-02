@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/pa-shop-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-pms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-ums/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pa-shop-ums/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

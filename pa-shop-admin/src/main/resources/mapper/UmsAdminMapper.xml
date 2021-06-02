@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fh.pashopadmin.mapper.UmsAdminMapper">
+
+    <select id="queryUmsAdminList" resultType="com.fh.pashopadmin.entity.UmsAdmin">
+        select * from ums_admin
+    </select>
+
+    <update id="updateStatus">
+        update ums_admin set status = #{status} where id = #{musId}
+    </update>
+
+</mapper>
