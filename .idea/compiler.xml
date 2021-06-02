@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pa-shop-ums" />
+        <module name="pa-shop-generator" />
+        <module name="pa-shop-commons" />
+        <module name="pa-shop-model" />
+        <module name="pa-shop-pms" />
+        <module name="pa-shop-admin" />
+        <module name="pa-shop-config" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
